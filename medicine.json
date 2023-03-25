@@ -1,0 +1,19 @@
+[{
+        "name":"Paracetamol",
+        "description":"Paracetamol, also known as acetaminophen, is a medication used to treat fever and mild to moderate pain. Common brand names include Tylenol and Panadol. "
+    },{
+        "name":"Dolo-650",
+        "description":"Dolo-650 tablet is a very common medicine and often prescribed alone or with one or two medicine to relieve symptoms of fever, nerve pain, and pain during periods, backache, toothache, sore throat, muscle aches, strains and sprains"
+    },{
+        "name":"Amlong",
+        "description":"Amlong 5 Tablet 15's is used to treat heart-related conditions like angina (chest pain) and high blood pressure (hypertension). It is a calcium channel blocker that inhibits the entry of calcium (ions) across the heart that relaxes and widens the smooth muscles for better blood flow."
+    },{
+        "name":"Glynase",
+        "description":"Glynase-MF Tablet 10's is used to treat type 2 diabetes mellitus. It is a combination of Glipizide and Metformin. Glipizide is effective in treating low blood sugar levels when used as an adjunct to diet and exercise."
+    },{
+        "name":"Augmentin",
+        "description":"Amoxicillin/clavulanic acid, also known as co-amoxiclav or amox-clav, sold under the brand name Augmentin, among others, is an antibiotic medication used for the treatment of a number of bacterial infections. "
+    },{
+        "name":"Brufen",
+        "description":"Ibuprofen is a nonsteroidal anti-inflammatory drug that is used for treating pain, fever, and inflammation. This includes painful menstrual periods, migraines, and rheumatoid arthritis"
+    }]

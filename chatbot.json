@@ -1,0 +1,27 @@
+[
+    {
+        
+        "your name":"Toro",
+        "you here for":"I am here for you",        
+        "best medical":"Apollo",
+        "how to get refund":"Tell Us What Happened",
+        "how long will it take to refund":"In a Couple of days 😊",
+        "hi":"Hello",
+        "thank you":"Your'e Welcome",
+        "defaultmessage":"😵‍💫 Oops! Sorry, I didn't understand your question. Please rephrase it",
+        "yes":"Thank You ❤",
+        "no":"Sorry!"
+       },
+    {
+        "hi":"What information are you looking for?",
+        "best medical":"It is the best rated medical",
+        "how to get refund":"We will connect you to our service",
+        "how long will it take to refund":"We will try to make it sooner",
+        "no":"Describe us the problem",
+        "defaultmessage":"Or select an option"
+    },{
+        "how to get refund":"Is this helpful [ Yes / No ]",
+        "best medical":"Is this helpful [ Yes / No ]",
+        "how long will it take to refund":"Is this helpful [ Yes / No ]"
+    }
+]

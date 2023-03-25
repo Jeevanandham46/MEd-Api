@@ -1,0 +1,196 @@
+[
+{
+            "name":"Apollo",
+            "Address":"No 62 Neelangarai chennai",
+            "email":"apollo@gmail.com",
+            "phone":"044 2345 2455",
+            "med":[
+                {
+                "name":"Paracetamol",
+                "description":"Paracetamol, also known as acetaminophen, is a medication used to treat fever and mild to moderate pain. Common brand names include Tylenol and Panadol. ",
+                "img":"paracetamol.jpg",
+                "price":20
+            },{
+                "name":"Dolo-650",
+                "description":"Dolo-650 tablet is a very common medicine and often prescribed alone or with one or two medicine to relieve symptoms of fever, nerve pain, and pain during periods, backache, toothache, sore throat, muscle aches, strains and sprains",
+                "img":"dolo-650.jfif",
+                "price":10
+            },{
+                "name":"Amlong",
+                "description":"Amlong 5 Tablet 15's is used to treat heart-related conditions like angina (chest pain) and high blood pressure (hypertension). It is a calcium channel blocker that inhibits the entry of calcium (ions) across the heart that relaxes and widens the smooth muscles for better blood flow.",
+                "img":"amlong.jfif",
+                "price":15
+            },{
+                "name":"Glynase",
+                "description":"Glynase-MF Tablet 10's is used to treat type 2 diabetes mellitus. It is a combination of Glipizide and Metformin. Glipizide is effective in treating low blood sugar levels when used as an adjunct to diet and exercise.",
+                "img":"glynase.jfif",
+                "price":18
+            },{
+                "name":"Augmentin",
+                "description":"Amoxicillin/clavulanic acid, also known as co-amoxiclav or amox-clav, sold under the brand name Augmentin, among others, is an antibiotic medication used for the treatment of a number of bacterial infections. ",
+                "img":"augmentin.png",
+                "price":22
+            },{
+                "name":"Brufen",
+                "description":"Ibuprofen is a nonsteroidal anti-inflammatory drug that is used for treating pain, fever, and inflammation. This includes painful menstrual periods, migraines, and rheumatoid arthritis",
+                "img":"brufen.jfif",
+                "price":30
+            }],
+            "image":"apollo.png"
+        },
+       {
+            "name":"Med Plus",
+            "Address":"No 23 OMR chennai",
+            "email":"medplus@gmail.com",
+            "phone":"044 5674 2345",
+            "med":[
+                {
+                "name":"Digene",
+                "description":"Digene is an antacid that is known to provide effective relief from acidity and its symptoms such as heartburn, stomach discomfort, and abdominal pain. So if you are suffering from acidity or any of the symptoms such as gas or stomach discomfort due to acidity, you can take this medicine.",
+                "img":"digene.jfif",
+                "price":20
+            },{
+                "name":"Acetaminophen",
+                "description":"It relieves pain and fever . Acetaminophen can also be combined with other active ingredients in medicines that treat allergy, cough, colds, flu, and sleeplessness. In prescription medicines, acetaminophen is found with other active ingredients to treat moderate to severe pain",
+                "img":"acetaminophen.jfif",
+                "price":10
+            },{
+                "name":"Ativan",
+                "description":"This medication is used to treat anxiety . Lorazepam belongs to a class of drugs known as benzodiazepines which act on the brain and nerves (central nervous system) to produce a calming effect. This drug works by enhancing the effects of a certain natural chemical in the body (GABA).",
+                "img":"Ativan.jfif",
+                "price":15
+            },{
+                "name":"Jevtana",
+                "description":"JEVTANA was developed specifically to treat men with advanced prostate cancer (mCRPC) that: Has spread to other parts of the body (metastasized) Is no longer responding to medicine or surgery that lowers testosterone. Has previously been treated with a chemotherapy called docetaxel.",
+                "img":"Jevtana.jfif",
+                "price":18
+            },{
+                "name":"Zaditor",
+                "description":"This medication is used to prevent and treat itching of the eyes caused by allergies (allergic/seasonal conjunctivitis) . Ketotifen is an antihistamine for the eye that treats allergic symptoms by blocking a certain natural substance (histamine). ",
+                "img":"zaditor.jfif",
+                "price":22
+            },{
+                "name":"Zeposia",
+                "description":"Zeposia was approved by the US Food and Drug Administration (FDA) for treatment of relapsing forms of multiple sclerosis (MS), to include clinically isolated syndrome, relapsing-remitting disease, and active secondary progressive disease, in adults .",
+                "img":"zeposia.jfif",
+                "price":30
+            }],
+            "image":"medplus.jpg"
+        },
+        {
+            "name":"OmniCare",
+            "Address":"No 87 Madipakkam chennai",
+            "email":"omnicare@gmail.com",
+            "phone":"044 9876 4567",
+            "med":[{
+                "name":"Paracetamol",
+                "description":"Paracetamol, also known as acetaminophen, is a medication used to treat fever and mild to moderate pain. Common brand names include Tylenol and Panadol. ",
+                "img":"paracetamol.jpg",
+                "price":20
+            },{
+                "name":"Dolo-650",
+                "description":"Dolo-650 tablet is a very common medicine and often prescribed alone or with one or two medicine to relieve symptoms of fever, nerve pain, and pain during periods, backache, toothache, sore throat, muscle aches, strains and sprains",
+                "img":"dolo-650.jfif",
+                "price":10
+            },{
+                "name":"Amlong",
+                "description":"Amlong 5 Tablet 15's is used to treat heart-related conditions like angina (chest pain) and high blood pressure (hypertension). It is a calcium channel blocker that inhibits the entry of calcium (ions) across the heart that relaxes and widens the smooth muscles for better blood flow.",
+                "img":"amlong.jfif",
+                "price":15
+            },{
+                "name":"Glynase",
+                "description":"Glynase-MF Tablet 10's is used to treat type 2 diabetes mellitus. It is a combination of Glipizide and Metformin. Glipizide is effective in treating low blood sugar levels when used as an adjunct to diet and exercise.",
+                "img":"glynase.jfif",
+                "price":18
+            },{
+                "name":"Augmentin",
+                "description":"Amoxicillin/clavulanic acid, also known as co-amoxiclav or amox-clav, sold under the brand name Augmentin, among others, is an antibiotic medication used for the treatment of a number of bacterial infections. ",
+                "img":"augmentin.png",
+                "price":22
+            },{
+                "name":"Brufen",
+                "description":"Ibuprofen is a nonsteroidal anti-inflammatory drug that is used for treating pain, fever, and inflammation. This includes painful menstrual periods, migraines, and rheumatoid arthritis",
+                "img":"brufen.jfif",
+                "price":30
+            }],
+            "image":"omnicare.jpg"
+        },
+        {
+            "name":"Health Medicare",
+            "Address":"No 09 Anna Nagar chennai",
+            "email":"hmedicare@gmail.com",
+            "phone":"044 9876 6780",
+            "med":[
+                {
+                "name":"Digene",
+                "description":"Digene is an antacid that is known to provide effective relief from acidity and its symptoms such as heartburn, stomach discomfort, and abdominal pain. So if you are suffering from acidity or any of the symptoms such as gas or stomach discomfort due to acidity, you can take this medicine.",
+                "img":"digene.jfif",
+                "price":20
+            },{
+                "name":"Acetaminophen",
+                "description":"It relieves pain and fever . Acetaminophen can also be combined with other active ingredients in medicines that treat allergy, cough, colds, flu, and sleeplessness. In prescription medicines, acetaminophen is found with other active ingredients to treat moderate to severe pain",
+                "img":"acetaminophen.jfif",
+                "price":10
+            },{
+                "name":"Ativan",
+                "description":"This medication is used to treat anxiety . Lorazepam belongs to a class of drugs known as benzodiazepines which act on the brain and nerves (central nervous system) to produce a calming effect. This drug works by enhancing the effects of a certain natural chemical in the body (GABA).",
+                "img":"Ativan.jfif",
+                "price":15
+            },{
+                "name":"Jevtana",
+                "description":"JEVTANA was developed specifically to treat men with advanced prostate cancer (mCRPC) that: Has spread to other parts of the body (metastasized) Is no longer responding to medicine or surgery that lowers testosterone. Has previously been treated with a chemotherapy called docetaxel.",
+                "img":"Jevtana.jfif",
+                "price":18
+            },{
+                "name":"Zaditor",
+                "description":"This medication is used to prevent and treat itching of the eyes caused by allergies (allergic/seasonal conjunctivitis) . Ketotifen is an antihistamine for the eye that treats allergic symptoms by blocking a certain natural substance (histamine). ",
+                "img":"zaditor.jfif",
+                "price":22
+            },{
+                "name":"Zeposia",
+                "description":"Zeposia was approved by the US Food and Drug Administration (FDA) for treatment of relapsing forms of multiple sclerosis (MS), to include clinically isolated syndrome, relapsing-remitting disease, and active secondary progressive disease, in adults .",
+                "img":"zeposia.jfif",
+                "price":30
+            }],
+            "image":"healthwarehouse.jpg"
+        },
+        {
+            "name":"Med-x Drug",
+            "Address":"No 987 Chrompet Chennai",
+            "email":"meddrug@gmail.com",
+            "phone":"044 5678 3456",
+            "med":[
+                {
+                "name":"Paracetamol",
+                "description":"Paracetamol, also known as acetaminophen, is a medication used to treat fever and mild to moderate pain. Common brand names include Tylenol and Panadol. ",
+                "img":"paracetamol.jpg",
+                "price":20
+            },{
+                "name":"Dolo-650",
+                "description":"Dolo-650 tablet is a very common medicine and often prescribed alone or with one or two medicine to relieve symptoms of fever, nerve pain, and pain during periods, backache, toothache, sore throat, muscle aches, strains and sprains",
+                "img":"dolo-650.jfif",
+                "price":10
+            },{
+                "name":"Amlong",
+                "description":"Amlong 5 Tablet 15's is used to treat heart-related conditions like angina (chest pain) and high blood pressure (hypertension). It is a calcium channel blocker that inhibits the entry of calcium (ions) across the heart that relaxes and widens the smooth muscles for better blood flow.",
+                "img":"amlong.jfif",
+                "price":15
+            },{
+                "name":"Glynase",
+                "description":"Glynase-MF Tablet 10's is used to treat type 2 diabetes mellitus. It is a combination of Glipizide and Metformin. Glipizide is effective in treating low blood sugar levels when used as an adjunct to diet and exercise.",
+                "img":"glynase.jfif",
+                "price":18
+            },{
+                "name":"Augmentin",
+                "description":"Amoxicillin/clavulanic acid, also known as co-amoxiclav or amox-clav, sold under the brand name Augmentin, among others, is an antibiotic medication used for the treatment of a number of bacterial infections. ",
+                "img":"augmentin.png",
+                "price":22
+            },{
+                "name":"Brufen",
+                "description":"Ibuprofen is a nonsteroidal anti-inflammatory drug that is used for treating pain, fever, and inflammation. This includes painful menstrual periods, migraines, and rheumatoid arthritis",
+                "img":"brufen.jfif",
+                "price":30
+            }],
+            "image":"medx.jpeg"
+        }
+]
